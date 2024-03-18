@@ -1,0 +1,26 @@
+body {
+    background-color: #8287ff;
+    color: #fffa82;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+a:hover {
+    color: #fffa82;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+.content {
+    display: flex;
+}
+.column {
+    display: flex;
+    flex-direction: column;
+    margin-right: 5%;
+}
